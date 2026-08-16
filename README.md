@@ -78,3 +78,17 @@ Create a `.env` file inside the `backend` folder:
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/travel
 JWT_SECRET_KEY=your_jwt_secret_key
+
+## 
+# ===== TERMINAL 1 — BACKEND =====
+cd .\backend
+npm install
+npm start
+
+# ===== TERMINAL 2 — FRONTEND =====
+cd .\frontend
+npm install
+npm start
+
+# ===== OPEN IN BROWSER =====
+# http://localhost:3000
