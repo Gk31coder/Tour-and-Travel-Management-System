@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Westminister Bridge",
+    "city": "London",
+    "address": "Somewhere in London",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Westminster Bridge is one of the most famous bridges in London, spanning the River Thames and connecting the areas of Westminster on the north bank to Lambeth on the south bank.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bali, Indonesia",
+    "city": "Bali",
+    "address": "Somewhere in Indonesia",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "“Bali, Indonesia” in Bali is a tropical paradise known for its beautiful beaches, vibrant culture, and scenic landscapes.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Snowy Mountains, Thailand",
+    "city": "Bangkok",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "“Snowy Mountains, Thailand” in Bangkok is imagined as a serene winter escape with snow-covered peaks, cool breezes, and breathtaking alpine views.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Beautiful Sunrise, Thailand",
+    "city": "Phuket",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "“Beautiful Sunrise, Thailand” in Thailand captures the breathtaking golden dawn over serene beaches and lush landscapes.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nusa Pendia Bali, Indonesia",
+    "city": "Bali",
+    "address": "Somewhere in Indonesia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "“Nusa Pendia, Bali, Indonesia” likely refers to Nusa Penida, known for its dramatic cliffs, crystal-clear waters, and stunning coastal views.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Cherry Blossoms Spring",
+    "city": "Tokyo",
+    "address": "Somewhere in Japan",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "“Cherry Blossoms Spring” evokes the breathtaking beauty of Cherry Blossoms in full bloom, symbolizing renewal and the arrival of spring.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Holmen Lofoten, France",
+    "city": "Paris",
+    "address": "Somewhere in France",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "“Holmen Lofoten, France” appears to be a mix-up, as Lofoten Islands are actually located in Norway, known for their dramatic peaks, fjords, and scenic coastal beauty.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Snowy Mountains, Thailand-2",
+    "city": "Bangkok",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "“Snowy Mountains, Thailand-2” in Bangkok is imagined as a peaceful snowy retreat with cool air, white-covered peaks, and stunning winter scenery.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet-2",
+    "city": "Sylhet",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "“Jaflong, Sylhet-2” in Jaflong is a scenic destination known for its crystal-clear rivers, rolling hills, and serene natural beauty.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach-2",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "“Cox’s Bazar Sea Beach-2” in Cox's Bazar Sea Beach is famous for its long sandy shoreline, gentle waves, and breathtaking coastal sunsets.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  }
+]
